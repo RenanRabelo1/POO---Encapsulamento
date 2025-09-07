@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3c57589-8c5e-4507-aa68-ee23a60b5a78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Q2/q2/src/Empregado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/q2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q3/src/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/src/Ponto2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/src/Elevador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/src/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turma.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="32OOG70yGxXxxa4TrvmchWFSwtY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "q2",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3c57589-8c5e-4507-aa68-ee23a60b5a78" name="Changes" comment="" />
+      <created>1757288055133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757288055133</updated>
+    </task>
+    <servers />
+  </component>
+</project>
